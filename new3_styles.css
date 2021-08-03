@@ -1,0 +1,97 @@
+.container{
+    max-width:85%;
+    height:1000px;
+    padding:30px;
+    background-color: turquoise;
+    margin:0 auto;
+    margin-top: 50px;
+}
+header img{
+    height: 180px;
+    width: 170px;
+    border:1px solid white;
+    border-radius: 50%;
+    float: left;
+}
+h1, h2 ,h3,h4,h5,h6{
+   color: teal;
+   font-size: large;
+   font-weight: bold;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header .nam{
+    float:left;
+    padding: 50px;
+}
+.contact  a{
+ text-decoration: none;
+ color:wheat;
+ font-size: large;
+ font-weight: normal;
+}
+.contact a:hover{
+    text-decoration:underline ;
+    color: blue;
+}
+.contact{
+    float: right;
+    padding: 50px;
+}
+.line hr{
+    top: 230px;
+    width:90%;
+    border:2px solid black;
+    float: center;
+}
+.div-clear{
+    clear: both;
+}
+.content{
+
+}
+ .left{
+    width:40%;
+    float:left;
+    margin :5px auto;
+}
+.right{
+    width:60%;
+    float:right;
+    margin:5px auto;
+}
+ p{
+    font-size:large ; 
+}
+.common-hr{
+    width: 100%;
+    border:1px solid black;
+
+}
+.div_left{
+    width:40%;
+    float :left;
+    
+}
+  .div_right-1{
+    width:20%;
+    float :right;
+}
+ .div_right-2{
+width:20%;
+float: left;
+}
+.footer-div{
+    background-color: black;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+.footer-div a{
+    text-decoration: none;
+    color: white;
+    padding:50px;
+}
+.footer-div p{
+    color: white;
+    margin-top: 20px;
+}
